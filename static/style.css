@@ -1,0 +1,14 @@
+.divL, .divR {
+    display: inline-block;
+    width: 49%;
+    margin: 5px;
+}
+
+.k-button {
+    margin: 10px;
+    float: right;
+}
+
+#update {
+    border: 2px solid black
+}

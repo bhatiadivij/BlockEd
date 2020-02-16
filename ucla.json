@@ -1,0 +1,43 @@
+{
+  "uid": "ucla",
+  "uname": "University of California, Los Angeles",
+  "current_students": [
+                        {
+                          "sid": "raju@usc.edu",
+                          "sname": "Raju Sharma",
+                          "degree": "MS in EE"
+                        },
+                        {
+                          "sid": "anees@usc.edu",
+                          "sname": "Anees Ahmed",
+                          "degree": "MS in EE (Data Science)"
+                        },
+                        {
+                          "sid": "Ankesh@usc.edu",
+                          "sname": "Ankesh Soni",
+                          "degree": "MS in CS"
+                        },
+                        {
+                          "sid": "pranav@usc.edu",
+                          "sname": "Pranav Sharma",
+                          "degree": "MS in CS (Software Engineering)"
+                        }
+                    ],
+  "prospective_students": [
+                        {
+                          "sid": "anubhav@usc.edu",
+                          "sname": "Anubhav Singh",
+                          "degree": "MS in CS"
+                        },
+                        {
+                          "sid": "harry@usc.edu",
+                          "sname": "Harry Potter",
+                          "degree": "MS in Magic Art"
+                        },
+                        {
+                          "sid": "ron@usc.edu",
+                          "sname": "Ron Weasley",
+                          "degree": "MS in Magic Art"
+                        }
+                    ]
+}
