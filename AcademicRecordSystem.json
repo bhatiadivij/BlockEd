@@ -40,14 +40,6 @@
               "Name": "string"
             }
           },
-        //   {
-        //     "Name": "AskingPrice",
-        //     "DisplayName": "Asking Price",
-        //     "Description": "The asking price for the asset",
-        //     "Type": {
-        //       "Name": "money"
-        //     }
-        //   },
           {
             "Name": "Degree",
             "DisplayName": "Degree Certificate",
